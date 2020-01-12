@@ -1,6 +1,21 @@
-Research Assistant Training
+Tilburg Training - February 2020
 ================
 
+## Tutorial Introduction
+
+This tutorial provides an introduction to a collection of tools designed
+to increase research visibility, transparency, and collaboration. The
+content for this tutorial is largely drawn from the collection of
+trainings provided to research assistants in the quantitative marketing
+research lab at Brigham Young University.
+
+Things to do prior to the start of the tutorial:
+
+  - Create a git hub account
+
+  - Install R and Rstudio
+
+  - 
 ## Getting Started with GitHub
 
 GitHub is a powerful collaboration and version control tool. We will be
