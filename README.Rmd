@@ -1,5 +1,5 @@
 ---
-title: "Tools to enhance academic productivity, collaboration, and transparency"
+title: "Tools to Enhance Academic Productivity, Collaboration, and Transparency"
 output: github_document
 ---
 ## Pre-Tutorial Set-up

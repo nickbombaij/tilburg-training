@@ -1,4 +1,4 @@
-Tools to enhance academic productivity, collaboration, and transparency
+Tools to Enhance Academic Productivity, Collaboration, and Transparency
 ================
 
 ## Pre-Tutorial Set-up
