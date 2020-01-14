@@ -5,17 +5,23 @@ Tilburg Training - February 2020
 
 This tutorial provides an introduction to a collection of tools designed
 to increase research visibility, transparency, and collaboration. The
-content for this tutorial is largely drawn from the collection of
+content for this tutorial is largely drawn from a collection of
 trainings provided to research assistants in the quantitative marketing
 research lab at Brigham Young University.
 
-Things to do prior to the start of the tutorial:
+This will be an interactive tutorial, so please prepare your laptop with
+the appropriate software and settings. Things to do prior to the start
+of the tutorial:
 
-  - Create a git hub account
-
+  - Create a free github account
   - Install R and Rstudio
+  - Install Git
 
-  - 
+Specific details on how to get started appear in Jenny Bryan’s
+[pre-workshop
+set-up](https://happygitwithr.com/workshops.html?mkt_tok=eyJpIjoiT1RVelptVTNZams0T0dZMiIsInQiOiJlR0orVlVpaHZsRlwveWh5QUJPN2U1Q3BcL0pHVHo5RXJ5UkhabFlwVXM4NlEwcHhRTENQZmVxaEEyNnVLSkRFTTdVa0hyNjk4MkFHYUU1Nkt5VXNtRm9heFM3N3dnUFplZ1V5anpRTWdnWDVscE1lOUR6VzBHaGFQOUFhOGd1QkN3In0=#pre-workshop-set-up).
+This can take up to a few hours, so plan accordingly.
+
 ## Getting Started with GitHub
 
 GitHub is a powerful collaboration and version control tool. We will be
