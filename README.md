@@ -1,17 +1,17 @@
-Tilburg Training - February 2020
+Tools to enhance academic productivity, collaboration, and transparency
 ================
 
-## Tutorial Introduction
+## Pre-Tutorial Set-up
 
 This tutorial provides an introduction to a collection of tools designed
-to increase research visibility, transparency, and collaboration. The
+to increase research productivity, collaboration, and transparency. The
 content for this tutorial is largely drawn from a collection of
 trainings provided to research assistants in the quantitative marketing
 research lab at Brigham Young University.
 
 This will be an interactive tutorial, so please prepare your laptop with
 the appropriate software and settings. Things to do prior to the start
-of the tutorial:
+of the tutorial include:
 
   - Create a free github account
   - Install R and Rstudio
@@ -20,7 +20,10 @@ of the tutorial:
 Specific details on how to get started appear in Jenny Bryan’s
 [pre-workshop
 set-up](https://happygitwithr.com/workshops.html?mkt_tok=eyJpIjoiT1RVelptVTNZams0T0dZMiIsInQiOiJlR0orVlVpaHZsRlwveWh5QUJPN2U1Q3BcL0pHVHo5RXJ5UkhabFlwVXM4NlEwcHhRTENQZmVxaEEyNnVLSkRFTTdVa0hyNjk4MkFHYUU1Nkt5VXNtRm9heFM3N3dnUFplZ1V5anpRTWdnWDVscE1lOUR6VzBHaGFQOUFhOGd1QkN3In0=#pre-workshop-set-up).
-This can take up to a few hours, so plan accordingly.
+Please follow this link and complete the list of items in section 3.1.
+This can take up to a few hours, so plan accordingly. Note that the
+following Git/GitHub material draws heavily from Jenny Bryan’s training
+on using Git and GitHub from rstudio::conf 2019.
 
 ## Getting Started with GitHub
 
@@ -67,14 +70,6 @@ data, and it’s going to be essential for everyone to be on the same
 page. Even if you were just working solo, you will be collaborating with
 your past self and you should do yourself a favor and impose good
 version controls on your code.
-
-### Set-Up
-
-To get started, complete Jenny Bryan’s [pre-workshop
-set-up](https://happygitwithr.com/workshops.html?mkt_tok=eyJpIjoiT1RVelptVTNZams0T0dZMiIsInQiOiJlR0orVlVpaHZsRlwveWh5QUJPN2U1Q3BcL0pHVHo5RXJ5UkhabFlwVXM4NlEwcHhRTENQZmVxaEEyNnVLSkRFTTdVa0hyNjk4MkFHYUU1Nkt5VXNtRm9heFM3N3dnUFplZ1V5anpRTWdnWDVscE1lOUR6VzBHaGFQOUFhOGd1QkN3In0=#pre-workshop-set-up).
-This can take up to a few hours, so plan accordingly. Note that the
-following Git/GitHub material draws heavily from Jenny Bryan’s training
-on using Git and GitHub from rstudio::conf 2019.
 
 ## GitHub Basics
 
@@ -190,6 +185,4 @@ aren’t pushed to GitHub.
   - [Academic Research as Software
     Development](https://www.mathkills.com/words/2019/2/17/academic-research-as-software-development)
   - [Happy Git and GitHub for the useR](https://happygitwithr.com)
-  - [WTF Workshop at
-    rstudio::conf 2019](https://jennybc.github.io/wtf-2019-rsc/)
   - [What They Forgot to Teach You About R](https://whattheyforgot.org)
