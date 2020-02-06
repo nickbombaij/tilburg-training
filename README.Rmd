@@ -4,7 +4,7 @@ output: github_document
 ---
 ## Pre-Tutorial Set-up Nick!
 
-This tutorial provides an introduction to a collection of tools designed to increase research productivity, collaboration, and transparency.  The content for this tutorial is largely drawn from a collection of trainings provided to research assistants in the quantitative marketing research lab at Brigham Young University.      
+Test. This tutorial provides an introduction to a collection of tools designed to increase research productivity, collaboration, and transparency.  The content for this tutorial is largely drawn from a collection of trainings provided to research assistants in the quantitative marketing research lab at Brigham Young University.      
 
 This will be an interactive tutorial, so please prepare your laptop with the appropriate software and settings.  Things to do prior to the start of the tutorial include:
 
