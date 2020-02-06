@@ -1,5 +1,5 @@
 ---
-title: "Tools to Enhance Academic Productivity, Collaboration, and Transparency"
+title: "Tools to Enhance Productivity, Collaboration, and Transparency"
 output: github_document
 ---
 ## Pre-Tutorial Set-up
@@ -20,7 +20,7 @@ GitHub is a powerful collaboration and version control tool. We will be using it
 
 ### Project Management
 
-By project management I primarily mean keeping track of assigned tasks using the **Issues** tab on GitHub. We can have an ongoing conversation here about each specific issue and close it out when its completed or resolved. Be sure to tag collaborators you want to see the conversation (e.g., `@marcdotson`). Think of this as an email thread or Slack channel where all of the conversations are in one place, easily searchable, and automatically archived.
+By project management I primarily mean keeping track of assigned tasks using the **Issues** tab on GitHub. We can have an ongoing conversation here about each specific issue and close it out when its completed or resolved. Be sure to tag collaborators you want to see the conversation (e.g., `@jeff-dotson`). Think of this as an email thread or Slack channel where all of the conversations are in one place, easily searchable, and automatically archived.
 
 ### Writing
 
